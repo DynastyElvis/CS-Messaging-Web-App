@@ -3,9 +3,8 @@ import { PrettyChatWindow } from "react-chat-engine-pretty";
 const ChatsPage = (props) => {
   return (
     <div style={{ height: '100vh' }}>
-        return ()
       <PrettyChatWindow
-        projectId={import.meta.env.VITE_CHAT_ENGINE_PROJECT_ID}
+        projectId='9bf12be6-1b16-4d13-9656-538c2b80daec'
         username={props.user.username}
         secret={props.user.secret}
       />
