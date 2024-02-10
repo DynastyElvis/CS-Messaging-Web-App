@@ -1,3 +1,6 @@
+import axios from 'axios'
+
+
 const AuthPage = (props) => {
     const onSubmit = (e) => {
       e.preventDefault();
