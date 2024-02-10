@@ -1,5 +1,9 @@
-const ChatsPage = () => {
-    return <>chats..</>
-}
+import { PrettyChatWindow } from "react-chat-engine-pretty";
 
-export default ChatsPage
+const ChatsPage = (props) => {
+  return (
+
+  );
+};
+
+export default ChatsPage;
