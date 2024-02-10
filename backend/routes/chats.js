@@ -41,7 +41,24 @@ const chatsRouter = (io) => {
       .catch((err) => res.status(400).json("Error: " + err));
   });
 
-  
+  router.route("/:id/messages").get((req, res) => {
+    Message.find({ chatId: req.params.id })
+      .then((messages) => res.json(messages))
+      .catch((err) => res.status(400).json("Error: " + err));
+  });
+
+  router.route("/:id/messages").post((req, res) => {
+    const senderType = req.body.senderType;
+    const senderId = req.body.senderId;
+    const chatId = req.params.id;
+    const message = req.body.message;
+
+    const newMessage = new Message({
+      senderType,
+      senderId,
+      chatId,
+      message,
+    });
 
     newMessage
       .save()
