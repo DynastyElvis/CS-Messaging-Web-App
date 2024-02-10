@@ -18,10 +18,10 @@ This is a web-based customer service messaging application that delivers message
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/customer-service-app.git
+   git clone https://github.com/DynastyElvis/CS-Messaging-Web-App
 
 
-Navigate to the project directory:
+## Navigate to the project directory:
 
 bash
 Copy code
@@ -50,12 +50,12 @@ cd ../frontend
 npm start
 Open your browser and visit http://localhost:3000 to view the application.
 
-Usage
+## Usage
 Sign in or create an account.
 Start messaging with the customer service representative.
 Enjoy instantaneous message delivery and a user-friendly interface.
 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-License
+## License
 This project is licensed under the MIT License.
