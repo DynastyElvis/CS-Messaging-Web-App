@@ -11,7 +11,8 @@ const AuthPage = (props) => {
       )
       .then(r => props.Auth({ ...r.data, secret: value }))
       .catch(e => console.Consolelog('error', e))
-      props.onAuth({ username: value, secret: value });
+
+      // props.onAuth({ username: value, secret: value });
     };
   
     return (
