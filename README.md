@@ -24,12 +24,10 @@ This is a web-based customer service messaging application that delivers message
 ## Navigate to the project directory:
 
 bash
-Copy code
 cd customer-service-app
 Install dependencies for both backend and frontend:
 
 bash
-Copy code
 # Install backend dependencies
 cd backend
 npm install
@@ -40,7 +38,6 @@ npm install
 Run the application:
 
 bash
-Copy code
 # Start the backend server (ensure MongoDB is running)
 cd ../backend
 npm start
