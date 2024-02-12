@@ -13,6 +13,18 @@ This is a web-based customer service messaging application that delivers message
 - Frontend built with React.js
 - Pretty UI display using react-chat-engine
 
+
+
+## User Dashboard
+![Github Banner](https://github.com/DynastyElvis/eCommercePro/blob/master/public/images/Screenshot%20from%202023-04-18%2014-50-56.png)
+
+<!-- my social media links -->
+
+
+## Admin Dashboard
+![Github Banner](https://github.com/DynastyElvis/eCommercePro/blob/master/public/images/Screenshot%20from%202023-04-18%2014-49-14.png)
+
+
 ## Installation
 
 1. Clone the repository:
