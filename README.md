@@ -22,7 +22,7 @@ This is a web-based customer service messaging application that delivers message
 
 
 ## Chat Dashboard
-![Github Banner](https://github.com/DynastyElvis/eCommercePro/blob/master/public/images/Screenshot%20from%202023-04-18%2014-49-14.png)
+![Github Banner](https://github.com/DynastyElvis/CS-Messaging-Web-App/blob/main/frontend/public/images/Screen%20Shot%202024-02-12%20at%2011.46.32.png)
 
 
 ## Installation
