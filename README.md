@@ -15,13 +15,13 @@ This is a web-based customer service messaging application that delivers message
 
 
 
-## User Dashboard
-![Github Banner](https://github.com/DynastyElvis/eCommercePro/blob/master/public/images/Screenshot%20from%202023-04-18%2014-50-56.png)
+## Login Dashboard
+![Github Banner](https://github.com/DynastyElvis/CS-Messaging-Web-App/blob/main/frontend/public/images/Screen%20Shot%202024-02-12%20at%2011.44.49.png)
 
 <!-- my social media links -->
 
 
-## Admin Dashboard
+## Chat Dashboard
 ![Github Banner](https://github.com/DynastyElvis/eCommercePro/blob/master/public/images/Screenshot%20from%202023-04-18%2014-49-14.png)
 
 
